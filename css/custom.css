@@ -9,3 +9,11 @@ div {
     border: .05px solid grey;
     margin: 25px;
 }
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
