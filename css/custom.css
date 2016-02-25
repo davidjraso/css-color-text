@@ -3,6 +3,9 @@
 
 /*insert custom css below*/
 
+body {
+  background color: grey;
+}
 div {
     width: 400px;
     padding: 25px;
@@ -10,8 +13,12 @@ div {
     margin: 25px;
 }
 
-a:link {
+a {
     color: black;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 a:hover {
